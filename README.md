@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aayush Mandavya</h1>
 <h3 align="center">mandu</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/8a/4d/bc/8a4dbc7c87a56ea8a897394cedd4bb5d.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayushmandavya&label=Profile%20views&color=0e75b6&style=flat" alt="aayushmandavya" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aayushmandavya" alt="aayushmandavya" /></a> </p>
 
 - 🔭 I’m currently working on **Web Development**
 
