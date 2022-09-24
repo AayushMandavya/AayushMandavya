@@ -26,4 +26,4 @@
 
 <p><img align="left" width="420" src="https://github-readme-stats.vercel.app/api/top-langs?username=aayushmandavya&show_icons=true&locale=en&layout=compact" alt="aayushmandavya" /></p>
 
-<p>&nbsp;<img align="right" width="480" src="https://github-readme-stats.vercel.app/api?username=aayushmandavya&show_icons=true&locale=en" alt="aayushmandavya" /></p>
+<p>&nbsp;<img align="right" width="490" src="https://github-readme-stats.vercel.app/api?username=aayushmandavya&show_icons=true&locale=en" alt="aayushmandavya" /></p>
