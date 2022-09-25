@@ -1,4 +1,4 @@
-<img align="center" alt="banner" width="1000" height="600" src="https://github.com/AayushMandavya/AayushMandavya/blob/main/banner.png?raw=true"/>
+<img align="center" alt="banner" width="1000" height="500" src="https://github.com/AayushMandavya/AayushMandavya/blob/main/banner1.png?raw=true"/>
 
 <h1 align="center">Hi 👋, I'm Aayush Mandavya</h1>
 <h3 align="center">mandu</h3>
