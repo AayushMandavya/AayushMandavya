@@ -1,3 +1,5 @@
+<img align="center" alt="banner" width="1000" height="800" src="https://github.com/AayushMandavya/AayushMandavya/blob/main/banner.png?raw=true"/>
+
 <h1 align="center">Hi 👋, I'm Aayush Mandavya</h1>
 <h3 align="center">mandu</h3>
 <img align="right" alt="gif" width="400" src="https://i.pinimg.com/originals/8a/4d/bc/8a4dbc7c87a56ea8a897394cedd4bb5d.gif">
